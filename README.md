@@ -46,11 +46,11 @@
 <hr/>
 <h2>👨‍💻 Cybersecurtiy projects :</h2>
 
-- <b>Bcorp policy (Bcorp is a fictional, upscale business created for educational purposes, known for its ostentatious internet keys that showcase wealth rather than practical functionality. This handbook outlines the core operational guidelines to ensure Bcorp's compliance with legal standards and smooth operations. It includes essential policies such as business continuity planning, asset management, data classification, acceptable use, social media guidelines, access control, and privacy protection. While Bcorp's internet keys are more a symbol of affluence than practicality, the policies detailed in this manual serve to maintain the company's legal and operational integrity.)</b>
+- <b>Bcorp policy'Fictional'(Bcorp Handbook: Operational Guidelines for Legal Compliance and Smooth Functionality.)</b>
      
   - [Bcorp policy]( https://aaroncode72.github.io/)
 - <b>Building a network</b>
-  - [working on it]() <b><i>()</b></i>
+  - [Cisco Packet Tracer](https://github.com/Aaroncode72/Aaroncode72.github.io/blob/main/README.md) <b><i></b></i>
 
 <h2>🏆Certification</h2>
   <div align="left">
