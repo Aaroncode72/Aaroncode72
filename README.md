@@ -51,7 +51,7 @@
   - [Bcorp policy]( https://aaroncode72.github.io/)
 - <b>Building a network</b>
   - [Cisco Packet Tracer](https://github.com/Aaroncode72/Aaroncode72.github.io/blob/main/README.md) <b><i></b></i>
-
+- <b>More coming soon network</b>
 <h2>🏆Certification</h2>
   <div align="left">
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white&style=for-the-badge" alt="CompTIA Security+ Badge" />
